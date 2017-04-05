@@ -2,12 +2,10 @@
 -- further documentation, see http://haskell.org/cabal/users-guide/
 
 name:                mapreduce-haskell-project
-version:             0.1.0.0
+version:             0.0.0.1
 synopsis:            Cloud Haskell Demo Applications
 -- description:
-homepage:            http://haskell-distributed.github.com
-license:             BSD3
--- license-file:        LICENSE
+homepage:            https://github.com/Farhan1989/HaskellIndividual
 author:              Farhan Ahmad
 maintainer:          ahmadfa@tcd.ie
 copyright:           2016
