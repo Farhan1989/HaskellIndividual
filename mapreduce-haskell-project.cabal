@@ -2,7 +2,7 @@
 -- further documentation, see http://haskell.org/cabal/users-guide/
 
 name:                mapreduce-haskell-project
-version:             0.0.0.1
+version:             0.0.0.2
 synopsis:            Cloud Haskell Demo Applications
 -- description:
 homepage:            https://github.com/Farhan1989/HaskellIndividual
